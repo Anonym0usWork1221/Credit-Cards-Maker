@@ -17,7 +17,15 @@ Credit-Card-Maker
  *  Repository  : https://github.com/Anonym0usWork1221/Credit-Cards-Maker
 
 ------
+Warning
+====
+**_The Python tool for creating valid credit cards is intended for educational purposes only. Any use of
+this tool for illegal or fraudulent activities is strictly prohibited and may result in severe legal consequences.
+The tool generates credit card numbers that may be valid, but it is not intended to be used for making actual
+purchases or transactions. The creator of this tool is not responsible for any illegal or unauthorized use of the
+tool. Use at your own risk and discretion._**
 
+----
 Requirements
 ===
 * Python3.x and install pip requirements
